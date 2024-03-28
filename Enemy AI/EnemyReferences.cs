@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-namespace Llamacademy
+namespace FistOfTheFree
 {
     [DisallowMultipleComponent]
     public class EnemyReferences : MonoBehaviour
